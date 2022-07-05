@@ -1,7 +1,7 @@
-package com.example.project;
+package com.example.project.api;
 
 import com.example.project.domain.Post;
-import com.example.project.dto.request.PostRequest;
+import com.example.project.api.dto.request.PostRequest;
 import com.example.project.service.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

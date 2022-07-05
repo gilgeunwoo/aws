@@ -2,7 +2,7 @@ package com.example.project.service;
 
 
 import com.example.project.domain.PostRepository;
-import com.example.project.dto.request.PostRequest;
+import com.example.project.api.dto.request.PostRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
